@@ -1,5 +1,7 @@
 #!/usr/bin/with-contenv bashio
 
+set -x
+
 ################################################################################
 #Get config variables
 START_URL=$(bashio::config 'start_url' || echo "http://localhost:8123")
