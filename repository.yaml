@@ -1,0 +1,4 @@
+# https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
+name: Chromium Addon
+url: 'https://github.com/meibensteiner/chromium-addon'
+maintainer: Michael Eibensteiner <68381547+meibensteiner@@users.noreply.github.com>
