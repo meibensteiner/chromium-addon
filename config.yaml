@@ -1,7 +1,7 @@
-name: "LocalDashboard"
+name: "Local Dashboard"
 description: >
-  Start X server and launch dashboard from browser on local HAOS server (Jeff Kosowsky)
-version: "0.10.0"
+  Start X server and launch dashboard from browser on local HAOS server (by Jeff Kosowsky)
+version: "1.0.0"
 slug: "localdashboard"
 
 arch:
