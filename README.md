@@ -1,4 +1,6 @@
-# Local Dashboard on Home Assistant OS 
+# Home Assistant AddOns
+
+## Local Dashboard on Home Assistant OS 
 
 Addon to display a Dashboard on a device running Home Assistant OS, which is usually impossible because of the (almost) immutability of HAOS. 
 [All credit goes to puterboy from the Home Assistant community](https://community.home-assistant.io/t/ha-kiosk-on-rpi5-running-haos/849371/6). I just put it into a repository for easier installation.
