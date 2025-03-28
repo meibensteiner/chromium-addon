@@ -1,4 +1,4 @@
-# Home Assistant AddOns by meibensteiner 
+# Home Assistant AddOns
 
 ## Local Dashboard on Home Assistant OS 
 

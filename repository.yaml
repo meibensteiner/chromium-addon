@@ -1,4 +1,4 @@
 # https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
-name: Home Assistant AddOns
+name: Home Assistant AddOns by Michael Eibensteiner
 url: 'https://github.com/meibensteiner/home-assistant-addons'
 maintainer: Michael Eibensteiner <68381547+meibensteiner@@users.noreply.github.com>
